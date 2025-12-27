@@ -1,1 +1,4 @@
 SampleID,Location,SampleType,H2O_Percent,主导_Solute,SourceMission,ReferenceDOI
+15010,Apollo 15 site,Regolith,0.0045,None,Apollo 15,10.1073/pnas.1408118111
+15016,Apollo 15 site,Regolith,0.0030,None,Apollo 15,10.1073/pnas.1408118111
+60016,Apollo 16 site,Regolith,0.0060,None,Apollo 16,10.1073/pnas.1408118111
